@@ -96,7 +96,7 @@
 
 **Пример кода**
 
-  '''c++
+  ```c++
   #include <vector>
   #include <iostream>
   using namespace std;
@@ -166,7 +166,7 @@
 		}
 		return -105;
 	}
-  '''
+  ```
 
 ## Тестовый пример
 ### Матричный вид:
