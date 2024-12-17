@@ -91,13 +91,16 @@
 
 
   3. **Вывод результата**
+
 4.1 После прохождения по всем рёбрам выводим их в виде списка инцидентности и кажому ребру соответсвенно его степень(в списке отдельной колнкой).
+
 **Пример кода**
-\'''c++
- #include <vector>
-#include <iostream>
-using namespace std;
-int main() {
+
+  '''c++
+  #include <vector>
+  #include <iostream>
+  using namespace std;
+  int main() {
 	setlocale(LC_ALL, "Russian");
 	int rebro, versh, k = 0;
 	bool flag = false;
@@ -163,7 +166,7 @@ int main() {
 		}
 		return -105;
 	}
-\'''
+  '''
 
 ## Тестовый пример
 ### Матричный вид:
